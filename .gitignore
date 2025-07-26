@@ -1,0 +1,9 @@
+*.dll
+*.exe
+*.png
+*.bak
+*.dat
+*.DAT
+*.sty
+*.STY
+manual/
